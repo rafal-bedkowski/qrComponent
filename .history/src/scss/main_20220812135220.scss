@@ -1,0 +1,15 @@
+@import "~normalize.css";
+@import "_variables";
+@import "modules/hello.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+body {
+  font-family: Outfit ;
+  background: $lightGray;
+}
+
+.container{
+    margin: 80px 12px;
+    border-radius: 25px;
+}

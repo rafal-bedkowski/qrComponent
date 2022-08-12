@@ -10,16 +10,16 @@ body {
 }
 
 .container{
-    margin: 80px 25px 80px 25px;
-    border-radius: 20px;
+    margin: 80px 10px 80px 10px;
+    border-radius: 25px;
     background: $whiteQr;
-    height: 510px;
+    height: 500px;
 
     &__img{
-        width: 300px;
-        height: 300px;
+        width: 200px;
+        height: 200px;
         margin: auto;
-        margin-top: 15px;
+        margin-top: 12px;
         &--qr{
             border-radius: 10px;
         }
