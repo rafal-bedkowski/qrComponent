@@ -14,7 +14,7 @@ body {
     margin: 80px 25px 80px 25px;
     border-radius: 20px;
     background: $whiteQr;
-    height: 510px;
+    height: 500px;
     width: 330px;
 
     &__heading{
@@ -24,18 +24,15 @@ body {
         &--txt{
             text-align: center;
             font-weight: 700;
-            font-size: 25px;
+            font-size: 30px;
         }
     }
     &__text{
-        margin-top: 5px;
-        padding-left: 35px;
-        padding-right: 35px;
+        padding-top: 10px;
         &--plaintext{
             text-align: center;
             font-weight: 400;
-            font-size: 15px;
-            color: $grayishBlue;
+            font-size: 30px;
         }
     }
     &__img{

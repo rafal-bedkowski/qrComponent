@@ -10,13 +10,11 @@ body {
 }
 
 .container{
-    align-items:center;
     margin: 80px 25px 80px 25px;
     border-radius: 20px;
     background: $whiteQr;
-    height: 510px;
-    width: 330px;
-
+    height: 410px;
+    width: 200px;
     &__heading{
         padding-top: 20px;
         padding-left:5px ;
@@ -24,23 +22,12 @@ body {
         &--txt{
             text-align: center;
             font-weight: 700;
-            font-size: 25px;
-        }
-    }
-    &__text{
-        margin-top: 5px;
-        padding-left: 35px;
-        padding-right: 35px;
-        &--plaintext{
-            text-align: center;
-            font-weight: 400;
             font-size: 15px;
-            color: $grayishBlue;
         }
     }
     &__img{
-        width: 300px;
-        height: 300px;
+        width: 180px;
+        height: 180px;
         margin: auto;
         margin-top: 15px;
         &--qr{
