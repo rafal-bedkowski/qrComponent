@@ -28,8 +28,8 @@
 
 ## Setup
 
-git clone the project on your machine
-locally install the npm webpack `npm install --save-dev webpack`
+git clone the project on your machine  
+locally install the npm webpack `npm install --save-dev webpack`  
 
 Scripts you can use:
 
