@@ -6,7 +6,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -34,9 +33,9 @@ locally install the npm webpack `npm install --save-dev webpack`
 
 Scripts you can use:
 
-`npm run start` - to run webpack dev-server development mode
-`npm run build` - to run production mode
-`npm run publish` - to publish project on githubpages
+`npm run start` - to run webpack dev-server development mode  
+`npm run build` - to run production mode  
+`npm run publish` - to publish project on githubpages  
 
 
 ## Project Status
