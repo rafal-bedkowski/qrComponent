@@ -43,9 +43,6 @@ Scripts you can use:
 Project is: _complete_ 
 
 
-## Contact
-Created by [@RaVBedkowski](bedkowski.raf@gmail.com) - feel free to contact me!
-
 
 
 
