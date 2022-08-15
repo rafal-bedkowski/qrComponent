@@ -1,4 +1,4 @@
-![cover](../assets/img/RafaL.png)
+![cover](src/assets/img/RafaL.png)
 
 # QR Component - Frontend Mentor Challenge
 > Live demo [_here_](https://rafal-bedkowski.github.io/qrComponent/).
