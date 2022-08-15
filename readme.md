@@ -22,8 +22,8 @@
 
 
 ## Screenshots
-![Example screenshot](..assets/img/1440res_screenshot.png)
-![Example screenshot](..assets/img/375res_screenshot.png)
+![Example screenshot](..src/assets/img/1440res_screenshot.png)
+![Example screenshot](..src/assets/img/375res_screenshot.png)
 
 
 
