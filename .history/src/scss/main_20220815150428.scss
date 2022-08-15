@@ -7,15 +7,11 @@
 body {
   font-family: Outfit ;
   background: $lightGray;
-  @media(min-width: $desktop){
-    width: 1440px;
-  }
 }
 
 .container{
     @media(min-width: $desktop){
-        margin:auto;
-        margin-top:160px;
+        margin-left: 100px;
     }
     align-items:center;
     margin: 80px 25px 80px 25px;

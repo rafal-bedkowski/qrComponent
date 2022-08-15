@@ -7,9 +7,6 @@
 body {
   font-family: Outfit ;
   background: $lightGray;
-  @media(min-width: $desktop){
-    width: 1440px;
-  }
 }
 
 .container{
