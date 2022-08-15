@@ -34,7 +34,7 @@ locally install the npm webpack `npm install --save-dev webpack`
 
 Scripts you can use:
 
-`npm run start` - to run webpack dev-server, development mode
+`npm run start` - to run webpack dev-server development mode
 `npm run build` - to run production mode
 `npm run publish` - to publish project on githubpages
 
